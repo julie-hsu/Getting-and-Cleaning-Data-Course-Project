@@ -1,5 +1,4 @@
-Code Book
-Describes the variables, the data, and any transformations or work performed to clean up the data
+Code Book which describes the variables, the data, and any transformations or work performed to clean up the data
 
 Identifiers
 * subject - The ID of the subject who carried out the experiment.
