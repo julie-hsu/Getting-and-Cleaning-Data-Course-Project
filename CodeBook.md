@@ -1,11 +1,11 @@
-#Code Book
-##Describes the variables, the data, and any transformations or work performed to clean up the data
+Code Book
+Describes the variables, the data, and any transformations or work performed to clean up the data
 
-##Identifiers
+Identifiers
 * subject - The ID of the subject who carried out the experiment.
 * activity - The activity performed when the measurements were taken.
 
-##Measurements
+Measurements
 * tBodyAccMeanX
 * tBodyAccMeanY
 * tBodyAccMeanZ
@@ -86,7 +86,7 @@
 * fBodyBodyGyroJerkMagStd
 * fBodyBodyGyroJerkMagMeanFreq
 
-##Activity Labels
+Activity Labels
 * WALKING (value 1): subject was walking during the test
 * WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
 * WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
